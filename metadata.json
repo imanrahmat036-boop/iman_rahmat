@@ -1,0 +1,6 @@
+{
+  "name": "SIPES-GURU SMK Negeri Bojonggambir",
+  "description": "Sistem Informasi Supervisi Guru Berbasis Kurikulum Merdeka - SMK Negeri Bojonggambir",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
